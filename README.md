@@ -1,1 +1,1 @@
-## I'm Rutika Jadhav, a passionate full-stack Web Developer with a strong foundation in the MERN stack.
+<h1 classname="text-center">I'm Rutika Jadhav</h1>
