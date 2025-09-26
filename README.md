@@ -1,5 +1,5 @@
 <h1 align="center"> I'm Rutika Jadhav</h1>
-<h3 align="center">A passionate Web Developer specializing in the MERN stack. I focus on developing responsive, scalable and user-friendly web applications. I'm committed to writting clean efficient code and continuously improving my development skills. </h3>
+<h3 align="center">A passionate Full Stack Developer specializing in the Java Spring Boot and React.js. I focus on developing responsive, scalable and user-friendly web applications. I'm committed to writting clean efficient code and continuously improving my development skills. </h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=rutikajadhav-8&label=Profile%20views&color=0e75b6&style=flat" alt="rutikajadhav-8" /> </p>
 
